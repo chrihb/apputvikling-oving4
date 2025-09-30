@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">oving4</string>
+    <string name="movie">Movie</string>
+    <string name="movie_desc">Movie Description</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
 </resources>
